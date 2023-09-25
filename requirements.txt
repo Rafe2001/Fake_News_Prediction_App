@@ -1,5 +1,6 @@
-lask
+flask
 pandas
 scikit-learn
 nltk
+pickle
 re
