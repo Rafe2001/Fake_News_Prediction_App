@@ -1,0 +1,5 @@
+lask
+pandas
+scikit-learn
+nltk
+re
